@@ -1,0 +1,13 @@
+{
+  "name": "persona-icons",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "lucide-react": "^1.48.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
